@@ -88,4 +88,4 @@ eureka:
 
 
 # 自定义配置
-name: order-service-prod-v1.0
+name: order-service-prod
